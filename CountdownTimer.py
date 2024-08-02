@@ -1,5 +1,5 @@
 # Countdown Timer Program
-# Author: Adam
+# Author: Adam Mirski
 # Date: 2024-07-30
 
 import tkinter as tk
